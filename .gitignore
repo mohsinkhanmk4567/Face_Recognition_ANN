@@ -1,0 +1,44 @@
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.vscode/
+.idea/
+
+# Model outputs and generated files
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Temporary files
+*.log
+.DS_Store
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
